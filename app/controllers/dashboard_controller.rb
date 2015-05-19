@@ -1,9 +1,7 @@
 class DashboardController < ApplicationController
-	def main
+  def main
+  end
 
-	end
-
-	def booking_availability
-		
-	end
+  def booking_availability
+  end
 end
